@@ -1,16 +1,38 @@
-# ai_assistant_new
+# 🥗 Diet Planner App (Flutter)
 
-A new Flutter project.
+A sleek and intelligent diet planner app built using **Flutter**, integrated with **Google's Gemini API** for chat-based assistance. The app helps users plan their diet through a friendly AI-powered chat interface with both text and voice inputs.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔐 **Login and Signup**
+  - Secure user authentication system.
 
-A few resources to get you started if this is your first Flutter project:
+- 💬 **Chat Screen**
+  - Conversational UI powered by Gemini API.
+  - Accepts both **typed** and **voice** inputs.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🤖 **AI Response**
+  - Smart and personalized diet-related suggestions from Gemini API.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🚪 **Logout**
+  - One-tap logout functionality for security and convenience.
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Frontend UI)
+- **Dart** (Programming Language)
+- **Google Gemini API** (for AI chat responses)
+- **Speech to Text / Voice Recognition API** (for voice input)
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/2c93e60d-be33-4fb7-80c4-3171a90dc384)
+![image](https://github.com/user-attachments/assets/e3f45c7a-6939-4e5f-9a04-acc00e3c7e76)
+![image](https://github.com/user-attachments/assets/52f5bc6e-473c-4658-b1bb-190aa08e1305)
+![image](https://github.com/user-attachments/assets/3672c317-36af-4f0d-9665-fec7f8bafa55)
+
+
+
+
+
+
