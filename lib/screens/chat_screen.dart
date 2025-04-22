@@ -18,7 +18,7 @@ class _ChatScreenState extends State<ChatScreen> {
   bool _isListening = false;
   String _lastWords = '';
   final TextEditingController _textController = TextEditingController();
-  final String _geminiApiKey = 'AIzaSyCZxC0X6ZFE_k4PX8oQjoKBxrwCuBdJj0w';
+  final String _geminiApiKey = 'YOUR_API_KEY';
   bool _isLoading = false;
   final _authService = AuthService();
 
